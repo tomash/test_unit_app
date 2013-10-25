@@ -1,11 +1,10 @@
-# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+harry_potter:
+  title: Harry Potter
+  description: Książka wszechczasów
+  price: 39.99
 
-one:
-  title: MyString
-  price: 9.99
-  description: MyText
+paragraf_22:
+  title: Paragraf 23
+  description: Jakieś nudy
+  price: 19.49
 
-two:
-  title: MyString
-  price: 9.99
-  description: MyText
