@@ -5,3 +5,4 @@ FactoryGirl.define do
     description "Tam i z powrotem"
   end
 end
+
